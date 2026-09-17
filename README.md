@@ -70,3 +70,7 @@ and horizon blues for contrast. It is **opt-in only** — there is no
 still sees the light design. `base.css` carries dark variants for the few spots
 with hardcoded light values (header, hero, flag card); everything else is
 token-driven and follows automatically.
+
+## License
+
+Code in this repository is released under the [MIT License](LICENSE). Original text and figures are released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) with attribution to Thesis Institute. Third-party data and materials keep their own terms.
